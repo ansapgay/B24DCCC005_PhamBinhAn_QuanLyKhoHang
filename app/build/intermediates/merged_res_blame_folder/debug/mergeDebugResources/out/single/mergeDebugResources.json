@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "com.example.warehouse.app-debug-11:/drawable_ic_launcher.xml.flat",
+        "source": "com.example.warehouse.app-main-13:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.warehouse.app-debug-11:/drawable_button_outline.xml.flat",
+        "source": "com.example.warehouse.app-main-13:/drawable/button_outline.xml"
+    },
+    {
+        "merged": "com.example.warehouse.app-debug-11:/drawable_badge_background.xml.flat",
+        "source": "com.example.warehouse.app-main-13:/drawable/badge_background.xml"
+    },
+    {
+        "merged": "com.example.warehouse.app-debug-11:/drawable_input_background.xml.flat",
+        "source": "com.example.warehouse.app-main-13:/drawable/input_background.xml"
+    },
+    {
+        "merged": "com.example.warehouse.app-debug-11:/layout_activity_main.xml.flat",
+        "source": "com.example.warehouse.app-main-13:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.warehouse.app-debug-11:/drawable_logo_circle.xml.flat",
+        "source": "com.example.warehouse.app-main-13:/drawable/logo_circle.xml"
+    },
+    {
+        "merged": "com.example.warehouse.app-debug-11:/drawable_button_orange.xml.flat",
+        "source": "com.example.warehouse.app-main-13:/drawable/button_orange.xml"
+    },
+    {
+        "merged": "com.example.warehouse.app-debug-11:/drawable_button_primary.xml.flat",
+        "source": "com.example.warehouse.app-main-13:/drawable/button_primary.xml"
+    },
+    {
+        "merged": "com.example.warehouse.app-debug-11:/layout_activity_add_product.xml.flat",
+        "source": "com.example.warehouse.app-main-13:/layout/activity_add_product.xml"
+    },
+    {
+        "merged": "com.example.warehouse.app-debug-11:/layout_item_product.xml.flat",
+        "source": "com.example.warehouse.app-main-13:/layout/item_product.xml"
+    },
+    {
+        "merged": "com.example.warehouse.app-debug-11:/drawable_badge_low_stock.xml.flat",
+        "source": "com.example.warehouse.app-main-13:/drawable/badge_low_stock.xml"
+    },
+    {
+        "merged": "com.example.warehouse.app-debug-11:/layout_activity_login.xml.flat",
+        "source": "com.example.warehouse.app-main-13:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.warehouse.app-debug-11:/layout_activity_product_detail.xml.flat",
+        "source": "com.example.warehouse.app-main-13:/layout/activity_product_detail.xml"
+    },
+    {
+        "merged": "com.example.warehouse.app-debug-11:/drawable_button_danger.xml.flat",
+        "source": "com.example.warehouse.app-main-13:/drawable/button_danger.xml"
+    }
+]

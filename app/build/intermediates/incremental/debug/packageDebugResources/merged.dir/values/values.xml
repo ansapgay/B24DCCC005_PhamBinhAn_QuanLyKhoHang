@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="product_categories">
+        <item>Điện tử</item>
+        <item>Thực phẩm</item>
+        <item>Văn phòng phẩm</item>
+        <item>Gia dụng</item>
+        <item>Khác</item>
+    </string-array>
+    <color name="background">#F4F7F7</color>
+    <color name="orange">#F57C00</color>
+    <color name="red">#D32F2F</color>
+    <color name="teal">#00796B</color>
+    <color name="teal_dark">#00695C</color>
+    <color name="text_primary">#263238</color>
+    <color name="text_secondary">#607D8B</color>
+    <color name="white">#FFFFFF</color>
+    <string name="active_business">Đang kinh doanh</string>
+    <string name="add_product">+ Thêm sản phẩm</string>
+    <string name="add_product_title">Thêm sản phẩm</string>
+    <string name="app_name">Quản lý kho hàng</string>
+    <string name="delete_product">Xóa sản phẩm</string>
+    <string name="description_hint">Mô tả</string>
+    <string name="description_label">Mô tả</string>
+    <string name="empty_inventory">Chưa có sản phẩm nào trong kho.</string>
+    <string name="invalid_number">Vui lòng nhập số hợp lệ</string>
+    <string name="inventory_title">Kho hàng của tôi</string>
+    <string name="login">Đăng nhập</string>
+    <string name="login_failed">Sai tên đăng nhập hoặc mật khẩu</string>
+    <string name="login_title">Quản lý kho hàng</string>
+    <string name="low_stock_badge">Sắp hết hàng</string>
+    <string name="low_stock_label">Sắp hết hàng</string>
+    <string name="no_description">Chưa có mô tả</string>
+    <string name="out_of_stock">Hết hàng</string>
+    <string name="password_hint">Mật khẩu</string>
+    <string name="price_hint">Giá bán (đ)</string>
+    <string name="price_must_be_positive">Giá bán phải lớn hơn 0</string>
+    <string name="product_detail_title">Chi tiết sản phẩm</string>
+    <string name="product_name_hint">Tên sản phẩm</string>
+    <string name="product_not_found">Không tìm thấy sản phẩm</string>
+    <string name="product_price">Giá bán: %1$s</string>
+    <string name="product_quantity">SL: %1$d</string>
+    <string name="quantity_hint">Số lượng</string>
+    <string name="quantity_limit_reached">Số lượng đã đạt giới hạn</string>
+    <string name="quantity_must_not_be_negative">Số lượng không được âm</string>
+    <string name="receive_one">+ Nhập thêm 1</string>
+    <string name="required_field">Không được để trống</string>
+    <string name="return_button">Quay lại</string>
+    <string name="sample_account">Tài khoản mẫu: admin / 123456</string>
+    <string name="save_product">Lưu sản phẩm</string>
+    <string name="save_product_failed">Không thể lưu sản phẩm</string>
+    <string name="save_product_success">Đã lưu sản phẩm</string>
+    <string name="sell_one">- Bán 1</string>
+    <string name="stock_quantity">Số lượng tồn kho: %1$d</string>
+    <string name="stock_value_label">Giá trị tồn kho</string>
+    <string name="total_products_label">Tổng số sản phẩm</string>
+    <string name="total_value_label">Tổng giá trị kho</string>
+    <string name="username_hint">Tên đăng nhập</string>
+    <style name="AppTheme" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">@color/teal</item>
+        <item name="android:statusBarColor">@color/teal_dark</item>
+        <item name="android:navigationBarColor">@color/background</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+    <style name="FormEditText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">52dp</item>
+        <item name="android:layout_marginTop">12dp</item>
+        <item name="android:background">@drawable/input_background</item>
+        <item name="android:paddingStart">14dp</item>
+        <item name="android:paddingEnd">14dp</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textColorHint">@color/text_secondary</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="PrimaryButton">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">52dp</item>
+        <item name="android:background">@drawable/button_primary</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:stateListAnimator">@null</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+</resources>
